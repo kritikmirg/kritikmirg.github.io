@@ -3168,7 +3168,7 @@
 
 	/*#banner
 	{
-		background-image:url("images/overlay.png"), url('images/DCatnight1.jpg');
+		background-image:url("images/overlay.png"), url('images/DCatNight1.jpg');
 		background-size: auto, cover;
 		background-position: center center;
 		text-align: center;
@@ -3178,7 +3178,7 @@
 	/* #banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
-		background-image: url("images/overlay.png"), url("images/DCatnight1.jpg"); 
+		background-image: url("images/overlay.png"), url("images/DCatNight1.jpg"); 
 		background-position: top left,						center center;
 		background-repeat: repeat,							no-repeat;
 		background-size: auto,							cover;
@@ -3190,7 +3190,7 @@
 	#banner {
 		background-attachment: scroll,	fixed;
 		background-color: #666;
-		background-image: url("images/DCatnight1.jpg"); 
+		background-image: url("images/DCatNight1.jpg"); 
 		background-position: center center;
 		background-repeat: no-repeat;
 		background-size: cover;
