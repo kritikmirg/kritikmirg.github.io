@@ -3168,8 +3168,9 @@
 
 	#banner
 	{
-		background-image: url("images/DCatnight1.jpg");
-		background-size: cover;
+		background-image:url("images/overlay.png"), url('images/DCatnight1.jpg');
+		background-size: auto, cover;
+		background-position: center center;
 		text-align: center;
 		color: #fff;
 	}
@@ -3185,6 +3186,7 @@
 		padding: 12em 0 20em 0;
 		text-align: center;
 	} */
+
 
 		#banner :last-child {
 			margin-bottom: 0;
@@ -3208,6 +3210,7 @@
 			margin-bottom: 1.75em;
 		}
 
+		/*
 		#banner input[type="submit"],
 		#banner input[type="reset"],
 		#banner input[type="button"],
@@ -3238,7 +3241,7 @@
 			#banner .button.primary {
 				background: #fff;
 				color: #666 !important;
-			}
+			} */
 
 		.image-cropper 
 		{
