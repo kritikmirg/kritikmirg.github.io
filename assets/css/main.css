@@ -3175,7 +3175,7 @@
 		color: #fff;
 	} */
 
-	#banner {
+	/* #banner {
 		background-attachment: scroll,							fixed;
 		background-color: #666;
 		background-image: url("images/overlay.png"), url("images/DCatnight1.jpg"); 
@@ -3185,7 +3185,20 @@
 		color: #fff;
 		padding: 12em 0 20em 0;
 		text-align: center;
+	} */
+	
+	#banner {
+		background-attachment: scroll,	fixed;
+		background-color: #666;
+		background-image: url("images/DCatnight1.jpg"); 
+		background-position: center center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		color: #fff;
+		padding: 12em 0 20em 0;
+		text-align: center;
 	}
+
 
 
 		#banner :last-child {
